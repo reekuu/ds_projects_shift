@@ -4,4 +4,4 @@
 
 **ЯП:** `Python`, `SQL` | 
 **IDE:** `Jupyter Notebook` |
-**Certificate DS**: [`20212DS00733`](https://github.com/reekuu/ds_shift/blob/main/certificate.pdf) |
+**Certificate**: [`PDF`](https://github.com/reekuu/ds_shift/blob/main/certificate.pdf) |
